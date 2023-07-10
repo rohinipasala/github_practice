@@ -1,0 +1,22 @@
+
+Demo
+Linux Commands
+Linux Commands
+Linux Commands
+Linux Commands
+Linux Commands
+Ec2
+linux basic commands
+usermanagement
+Delegate root privileges to non root & file pemissions
+Backup and Restore&  package management
+package management & yum repositories
+scp and sch tools with password
+scp and sch without password & file system
+Advanced Linux commands
+Automation Jobs
+GIT
+Installation of GIT
+Branches
+Merge and Rehase
+Revert and cherry-pick and account creation
